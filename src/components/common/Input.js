@@ -9,6 +9,7 @@ const { inputStyle,labelStyle,containerStyle } =styles;
             <TextInput
             secureTextEntry={secureTextEntry}
             placeholder={placeholder}
+            placeholderTextColor = "#9a73ef"
             autoCorrect={false}
             style={inputStyle}
             value={value}
